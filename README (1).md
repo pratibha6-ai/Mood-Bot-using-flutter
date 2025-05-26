@@ -76,20 +76,6 @@ chatbot_app/
 - [ ] Display mood-based suggestions or quotes
 - [ ] Push notifications for motivational quotes
 
-### 📱 Phase 5: Publishing
-- [ ] Build and test on Android and iOS
-- [ ] Optimize for performance and battery usage
-- [ ] Publish on Play Store / App Store
-
----
-
-## ✨ Screenshots (Optional - To Add Later)
-
-| Home Page | Chat Interface |
-|-----------|----------------|
-| ![Home](assets/screenshots/home.png) | ![Chat](assets/screenshots/chat.png) |
-
----
 
 ## 👩‍💻 How to Run
 
@@ -107,35 +93,3 @@ chatbot_app/
    ```bash
    flutter run
    ```
-
----
-
-## 💡 Ideas for Expansion
-
-- Voice input and TTS (Text-to-Speech)
-- Daily motivation reminders
-- In-app journaling feature
-- Local language support
-- Chatbot avatar with animation
-
----
-
-## 🤝 Contributing
-
-Got an idea or a fix? Contributions are welcome!
-1. Fork the repo
-2. Create a feature branch
-3. Submit a PR with a brief description
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🌈 Stay Inspired
-
-_"Sometimes, the smallest chat can brighten the darkest day."_  
-Keep coding, keep smiling! 😊
