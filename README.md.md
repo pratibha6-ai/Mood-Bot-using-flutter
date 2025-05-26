@@ -1,13 +1,13 @@
-# 🤖 ChatBot App
+# 🤖 Mood-Bot App
 
-Welcome to the **ChatBot App** — a mood-aware conversational assistant built with **Flutter**!  
+Welcome to the **Mood-Bot App** — a mood-aware conversational assistant built with **Flutter**!  
 Whether you're feeling happy, sad, or just need a boost of motivation, this app is here to chat with you.
 
 ---
 
 ## 🌟 Project Overview
 
-The ChatBot App is designed to deliver **emotion-based responses**. Users can express their current mood (e.g., happy, sad, angry, motivated), and the chatbot will respond with appropriate messages, quotes, or even suggestions. It’s a vibrant, creative app with a sleek dark theme and engaging animations.
+The Mood-Bot App is designed to deliver **emotion-based responses**. Users can express their current mood (e.g., happy, sad, angry, motivated), and the chatbot will respond with appropriate messages, quotes, or even suggestions. It’s a vibrant, creative app with a sleek dark theme and engaging animations.
 
 ---
 
@@ -55,42 +55,20 @@ chatbot_app/
 ## 🧭 Development Roadmap
 
 ### ✅ Phase 1: Core MVP
-- [x] Setup Flutter environment
-- [x] Create landing page with a dark theme
-- [x] Add animated chatbot logo or entry animation
-- [x] Implement mood buttons: Happy, Sad, Angry, Motivation
-- [x] Generate mood-specific responses from static logic
+- [ ] Setup Flutter environment
+- [ ] Create landing page with a dark theme
+- [ ] Add animated chatbot logo or entry animation
+- [ ] Implement mood buttons: Happy, Sad, Angry, Motivation
+- [ ] Generate mood-specific responses from static logic
 
 ### 🔄 Phase 2: UI/UX Polishing
 - [ ] Add message bubble animations
 - [ ] Add emojis or illustrations for mood feedback
 - [ ] Improve input bar with send button animation
-- [ ] Include message time stamps
 
 ### 🌐 Phase 3: Backend & Intelligence
 - [ ] Connect with AI/ML API (e.g., OpenAI, Dialogflow)
 - [ ] Create a backend using Flask / Firebase
-- [ ] Store chat history locally or on cloud
-
-### 📊 Phase 4: Analytics & Personalization
-- [ ] Track user mood trends over time
-- [ ] Display mood-based suggestions or quotes
-- [ ] Push notifications for motivational quotes
-
-### 📱 Phase 5: Publishing
-- [ ] Build and test on Android and iOS
-- [ ] Optimize for performance and battery usage
-- [ ] Publish on Play Store / App Store
-
----
-
-## ✨ Screenshots (Optional - To Add Later)
-
-| Home Page | Chat Interface |
-|-----------|----------------|
-| ![Home](assets/screenshots/home.png) | ![Chat](assets/screenshots/chat.png) |
-
----
 
 ## 👩‍💻 How to Run
 
@@ -108,35 +86,3 @@ chatbot_app/
    ```bash
    flutter run
    ```
-
----
-
-## 💡 Ideas for Expansion
-
-- Voice input and TTS (Text-to-Speech)
-- Daily motivation reminders
-- In-app journaling feature
-- Local language support
-- Chatbot avatar with animation
-
----
-
-## 🤝 Contributing
-
-Got an idea or a fix? Contributions are welcome!
-1. Fork the repo
-2. Create a feature branch
-3. Submit a PR with a brief description
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License.
-
----
-
-## 🌈 Stay Inspired
-
-_"Sometimes, the smallest chat can brighten the darkest day."_  
-Keep coding, keep smiling! 😊
