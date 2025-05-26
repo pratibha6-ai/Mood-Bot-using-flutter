@@ -26,21 +26,21 @@ The ChatBot App is designed to deliver **emotion-based responses**. Users can ex
 ```
 chatbot_app/
 ├── assets/
-│   └── images/                # Mood-related icons or illustrations
+│   └── images/
+│       └── app_icon.ico           # Mood-related icons or illustrations
 ├── lib/
-│   ├── main.dart              # Entry point
+│   ├── main.dart                  # Entry point
 │   ├── ui/
-│   │   ├── home_page.dart     # Main landing screen
-│   │   └── chat_page.dart     # Chat interface
+│   │   ├── home_page.dart         # Main landing screen
+│   │   └── chat_page.dart         # Chat interface
 │   ├── widgets/
-│   │   ├── mood_buttons.dart  # Mood selection buttons
-│   │   └── message_bubble.dart# Chat message widget
+│   │   ├── mood_buttons.dart      # Mood selection buttons
+│   │   └── message_bubble.dart    # Chat message widget
 │   └── logic/
 │       └── chatbot_responses.dart # Mood-based response logic
+├── app.py                         # Backend logic using Flask or other framework
 └── pubspec.yaml
-```
 
----
 
 ## 🛠️ Tech Stack
 
